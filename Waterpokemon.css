@@ -1,0 +1,28 @@
+body {
+    background-color: blue;
+}   
+
+
+.Waterpb {
+    background-color: #3a90e5;
+}
+
+.Waterpb:hover {
+cursor:pointer;
+}
+
+h1 {
+    margin-left: 700px;
+}
+
+.Waterblas {
+    margin-left: 700px;
+}
+
+.WaterGar {
+    margin-left: 700px;
+}
+
+.Kyogrew {
+    margin-left: 700px;
+}

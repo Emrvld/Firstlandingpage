@@ -1,0 +1,56 @@
+body {
+    background-color: orange;
+}
+
+h1{
+   text-align: center;
+}
+
+h2{
+    text-align: center; 
+}
+
+.Alltypes {
+margin-left: 700px;
+}
+
+.Firet {
+margin-left: 700px;
+margin-bottom: 50px;
+margin-top: 25px;
+}
+
+.Watert {
+    margin-left: 700px;
+    margin-bottom: 50px;
+}
+.grasst {
+    margin-left: 700px;
+}
+
+.Fireb {
+    display: block;
+}
+.Waterb {
+    display: block;
+}
+.Grassb {
+    display: block;
+}
+
+.Fireb:hover {
+    background-color: gray;
+    cursor:pointer;
+    }
+
+.Waterb:hover {
+    background-color: gray;
+    cursor:pointer;
+    }
+.Grassb:hover {
+    background-color: gray;
+    cursor:pointer;
+}
+
+
+
