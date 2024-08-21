@@ -1,5 +1,5 @@
 body {
-    background-color: orange;
+    background-color: rgb(232, 232, 120);
 }
 
 h1{
@@ -15,27 +15,24 @@ margin-left: 700px;
 }
 
 .Firet {
-margin-left: 700px;
-margin-bottom: 50px;
-margin-top: 25px;
+
 }
 
 .Watert {
-    margin-left: 700px;
-    margin-bottom: 50px;
 }
-.grasst {
-    margin-left: 700px;
-}
+
 
 .Fireb {
     display: block;
+    text-decoration: none;
 }
 .Waterb {
     display: block;
+
 }
 .Grassb {
     display: block;
+    text-decoration: none;
 }
 
 .Fireb:hover {
@@ -52,5 +49,19 @@ margin-top: 25px;
     cursor:pointer;
 }
 
+a {
+text-decoration: none;
+}
 
+
+.Alltypes1 {
+    display: flex;
+    justify-content: space-between;
+}
+ 
+
+.Alltypes1 img {
+    height: 250px;
+    width: 300px;
+}
 

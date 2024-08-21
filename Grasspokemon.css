@@ -4,7 +4,14 @@ body {
 
 
 .Ivy1 {
-    margin-left: 700px;
+   margin-left: 700px;
+   border: 1px dotted black;
+   align-items: end;
+
+}
+
+.Figivy {
+margin-bottom: 20px;
 }
 
 
@@ -16,6 +23,7 @@ body {
     margin-left: 700px;
 }
 
+
 .Grass0 {
-    background-color: #14d437;
+    background-color: greenyellow;
 }
